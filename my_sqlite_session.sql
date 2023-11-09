@@ -28,7 +28,7 @@ Select location, date, total_cases, total_deaths, (total_deaths / total_cases)*1
 -- Looking at the Total cases vs Total Deaths
 
 SELECT location, date, total_cases, total_deaths, ROUND(total_deaths / total_cases, 20) AS death_percentage
-FROM c_deaths
+FROM covid_vacc
 LIMIT 200;
 
 
