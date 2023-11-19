@@ -1,6 +1,6 @@
 
 /*
-Covid 19 Data Exploration 
+Covid 19 Data Exploration, 300,000+ rows
 
 Skills used: CTE, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
