@@ -27,16 +27,11 @@ The project includes:
 
 ## Technologies Used
 
-- **SQL:**
-  - Utilized for data analysis and manipulation.
+- **SQL, Tableau CRM**
+- **Tableau CRM**
 
-- **Tableau CRM:**
-  - Employed for creating interactive and informative visualizations.
 
-- **Mapbox:**
-  - Integrated for the creation of an interactive map visualization.
-
-## Achievements and Impact
+## Results
 
 - Transformed raw data into visually engaging and informative visualizations.
 - Demonstrated proficiency in data analysis, SQL, and Tableau CRM.
