@@ -27,7 +27,7 @@ The project includes:
 
 ## Technologies Used
 
-- **SQL, Tableau CRM**
+- **SQL**
 - **Tableau CRM**
 
 
